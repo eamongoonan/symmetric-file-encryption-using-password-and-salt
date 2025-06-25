@@ -6,7 +6,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.charset.StandardCharsets;
 
-public class Assignment1
+public class Encryption
 {
     // "Strong" password
     private static final String SECURE_PASSWORD = "p@55w0rd4nd54lt?";
